@@ -1,0 +1,655 @@
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.1540
+validation Accuracy: 0.2533
+validation Accuracy: 0.3606
+validation Accuracy: 0.4265
+validation Accuracy: 0.4737
+validation Accuracy: 0.5125
+validation Accuracy: 0.5273
+validation Accuracy: 0.5342
+validation Accuracy: 0.5406
+validation Accuracy: 0.5416
+test Accuracy: 0.5316
+test Accuracy: 0.5316
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.1918
+validation Accuracy: 0.3625
+validation Accuracy: 0.4766
+validation Accuracy: 0.5529
+validation Accuracy: 0.5760
+validation Accuracy: 0.5898
+validation Accuracy: 0.6050
+validation Accuracy: 0.6119
+validation Accuracy: 0.6163
+validation Accuracy: 0.6203
+test Accuracy: 0.6103
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.6532
+validation Accuracy: 0.8273
+validation Accuracy: 0.8219
+validation Accuracy: 0.8859
+validation Accuracy: 0.8903
+validation Accuracy: 0.9011
+validation Accuracy: 0.9065
+validation Accuracy: 0.9120
+validation Accuracy: 0.9134
+validation Accuracy: 0.9129
+test Accuracy: 0.8988
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.6070
+validation Accuracy: 0.6276
+validation Accuracy: 0.6296
+validation Accuracy: 0.6301
+validation Accuracy: 0.6385
+validation Accuracy: 0.6488
+validation Accuracy: 0.6478
+validation Accuracy: 0.6424
+validation Accuracy: 0.6434
+validation Accuracy: 0.6444
+test Accuracy: 0.6493
+test Accuracy: 0.6493
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.5667
+validation Accuracy: 0.5908
+validation Accuracy: 0.6355
+validation Accuracy: 0.6409
+validation Accuracy: 0.6449
+validation Accuracy: 0.6429
+validation Accuracy: 0.6434
+validation Accuracy: 0.6458
+validation Accuracy: 0.6429
+validation Accuracy: 0.6434
+test Accuracy: 0.6503
+test Accuracy: 0.6503
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.1540
+validation Accuracy: 0.2533
+validation Accuracy: 0.3606
+validation Accuracy: 0.4265
+validation Accuracy: 0.4737
+validation Accuracy: 0.5125
+validation Accuracy: 0.5273
+validation Accuracy: 0.5342
+validation Accuracy: 0.5406
+validation Accuracy: 0.5416
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.1540
+validation Accuracy: 0.2533
+validation Accuracy: 0.3606
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.6070
+validation Accuracy: 0.6276
+validation Accuracy: 0.6296
+validation Accuracy: 0.6301
+validation Accuracy: 0.6385
+validation Accuracy: 0.6488
+validation Accuracy: 0.6478
+validation Accuracy: 0.6424
+validation Accuracy: 0.6434
+validation Accuracy: 0.6444
+test Accuracy: 0.6493
+test Accuracy: 0.6493
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.6070
+validation Accuracy: 0.6276
+validation Accuracy: 0.6296
+validation Accuracy: 0.6301
+validation Accuracy: 0.6385
+validation Accuracy: 0.6488
+validation Accuracy: 0.6478
+validation Accuracy: 0.6424
+validation Accuracy: 0.6434
+validation Accuracy: 0.6444
+test Accuracy: 0.6493
+test Accuracy: 0.6493
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.1279
+validation Accuracy: 0.1279
+validation Accuracy: 0.0772
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.1279
+validation Accuracy: 0.1279
+validation Accuracy: 0.0772
+validation Accuracy: 0.0772
+validation Accuracy: 0.0772
+validation Accuracy: 0.0772
+validation Accuracy: 0.0772
+validation Accuracy: 0.0772
+validation Accuracy: 0.0772
+validation Accuracy: 0.0772
+test Accuracy: 0.0911
+test Accuracy: 0.0911
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.7014
+validation Accuracy: 0.7482
+validation Accuracy: 0.8396
+validation Accuracy: 0.8441
+validation Accuracy: 0.8510
+validation Accuracy: 0.8465
+validation Accuracy: 0.8588
+validation Accuracy: 0.8539
+validation Accuracy: 0.8544
+validation Accuracy: 0.8544
+test Accuracy: 0.8416
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.7014
+validation Accuracy: 0.7482
+validation Accuracy: 0.8396
+validation Accuracy: 0.8441
+validation Accuracy: 0.8510
+validation Accuracy: 0.8465
+validation Accuracy: 0.8588
+validation Accuracy: 0.8539
+validation Accuracy: 0.8544
+validation Accuracy: 0.8544
+test Accuracy: 0.8416
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.7014
+validation Accuracy: 0.7482
+validation Accuracy: 0.8396
+validation Accuracy: 0.8441
+validation Accuracy: 0.8510
+validation Accuracy: 0.8465
+validation Accuracy: 0.8588
+validation Accuracy: 0.8539
+validation Accuracy: 0.8544
+validation Accuracy: 0.8544
+test Accuracy: 0.8416
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.5524
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.6316
+validation Accuracy: 0.7024
+validation Accuracy: 0.8333
+validation Accuracy: 0.8495
+validation Accuracy: 0.8534
+validation Accuracy: 0.8510
+validation Accuracy: 0.8519
+validation Accuracy: 0.8529
+validation Accuracy: 0.8569
+validation Accuracy: 0.8559
+test Accuracy: 0.8359
+test Accuracy: 0.8359
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.5288
+validation Accuracy: 0.7093
+validation Accuracy: 0.7531
+validation Accuracy: 0.8436
+validation Accuracy: 0.8446
+validation Accuracy: 0.8441
+validation Accuracy: 0.8485
+validation Accuracy: 0.8967
+validation Accuracy: 0.9080
+validation Accuracy: 0.9120
+validation Accuracy: 0.9006
+validation Accuracy: 0.9100
+validation Accuracy: 0.9100
+validation Accuracy: 0.9041
+validation Accuracy: 0.9061
+validation Accuracy: 0.9115
+validation Accuracy: 0.9110
+validation Accuracy: 0.9105
+validation Accuracy: 0.9110
+validation Accuracy: 0.9120
+test Accuracy: 0.9126
+test Accuracy: 0.9126
+validation Accuracy: 0.0000
+test Accuracy: 0.0000
+validation Accuracy: 0.5834
+validation Accuracy: 0.6094
+validation Accuracy: 0.6296
+validation Accuracy: 0.6409
+validation Accuracy: 0.6390
+validation Accuracy: 0.6375
+validation Accuracy: 0.6409
+validation Accuracy: 0.6399
+validation Accuracy: 0.6439
+validation Accuracy: 0.6503
+validation Accuracy: 0.6399
+validation Accuracy: 0.6444
+validation Accuracy: 0.6409
+validation Accuracy: 0.6444
+validation Accuracy: 0.6463
+validation Accuracy: 0.6463
+validation Accuracy: 0.6473
+validation Accuracy: 0.6463
+validation Accuracy: 0.6473
+validation Accuracy: 0.6473
+test Accuracy: 0.6500
+test Accuracy: 0.6500
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+test Accuracy: 0.0000 | test Loss: 4.0779
+validation Accuracy: 0.5780 | validation Loss: 2.2008
+validation Accuracy: 0.6178 | validation Loss: 2.0534
+validation Accuracy: 0.6286 | validation Loss: 1.9880
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+test Accuracy: 0.0000 | test Loss: 4.0779
+validation Accuracy: 0.5780 | validation Loss: 2.2008
+validation Accuracy: 0.6178 | validation Loss: 2.0534
+validation Accuracy: 0.6286 | validation Loss: 1.9880
+validation Accuracy: 0.6488 | validation Loss: 1.9432
+validation Accuracy: 0.6473 | validation Loss: 1.9181
+validation Accuracy: 0.6414 | validation Loss: 1.9137
+validation Accuracy: 0.6517 | validation Loss: 1.8905
+validation Accuracy: 0.6493 | validation Loss: 1.8816
+validation Accuracy: 0.6458 | validation Loss: 1.8800
+validation Accuracy: 0.6458 | validation Loss: 1.8771
+test Accuracy: 0.6473 | test Loss: 1.9086
+Final Test Accuracy: 0.6473 | Final Test Loss: 1.9086
+test Accuracy: 0.6473 | test Loss: 1.9086
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+test Accuracy: 0.0000 | test Loss: 4.0779
+validation Accuracy: 0.5288 | validation Loss: 2.3109
+validation Accuracy: 0.7093 | validation Loss: 1.4094
+validation Accuracy: 0.7531 | validation Loss: 0.9975
+validation Accuracy: 0.8436 | validation Loss: 0.7923
+validation Accuracy: 0.8446 | validation Loss: 0.7474
+validation Accuracy: 0.8441 | validation Loss: 0.7042
+validation Accuracy: 0.8485 | validation Loss: 0.7054
+validation Accuracy: 0.8967 | validation Loss: 0.6794
+validation Accuracy: 0.9080 | validation Loss: 0.6319
+validation Accuracy: 0.9120 | validation Loss: 0.6330
+validation Accuracy: 0.9006 | validation Loss: 0.6721
+validation Accuracy: 0.9100 | validation Loss: 0.6447
+validation Accuracy: 0.9100 | validation Loss: 0.6704
+validation Accuracy: 0.9041 | validation Loss: 0.6931
+validation Accuracy: 0.9061 | validation Loss: 0.6905
+validation Accuracy: 0.9115 | validation Loss: 0.6684
+validation Accuracy: 0.9110 | validation Loss: 0.6855
+validation Accuracy: 0.9105 | validation Loss: 0.6895
+validation Accuracy: 0.9110 | validation Loss: 0.6985
+validation Accuracy: 0.9120 | validation Loss: 0.6986
+test Accuracy: 0.9126 | test Loss: 0.6993
+Final Test Accuracy: 0.9126 | Final Test Loss: 0.6993
+test Accuracy: 0.9126 | test Loss: 0.6993
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5912 | validation Loss: 2.2353
+validation Accuracy: 0.7024 | validation Loss: 1.4284
+validation Accuracy: 0.8042 | validation Loss: 1.0553
+validation Accuracy: 0.8396 | validation Loss: 0.7881
+validation Accuracy: 0.8426 | validation Loss: 0.7585
+validation Accuracy: 0.8495 | validation Loss: 0.6866
+validation Accuracy: 0.8475 | validation Loss: 0.6777
+validation Accuracy: 0.9090 | validation Loss: 0.6431
+validation Accuracy: 0.9080 | validation Loss: 0.6542
+validation Accuracy: 0.9056 | validation Loss: 0.6513
+validation Accuracy: 0.9105 | validation Loss: 0.6566
+validation Accuracy: 0.9110 | validation Loss: 0.6225
+validation Accuracy: 0.9110 | validation Loss: 0.6374
+validation Accuracy: 0.9115 | validation Loss: 0.6429
+validation Accuracy: 0.9159 | validation Loss: 0.6178
+validation Accuracy: 0.9164 | validation Loss: 0.6377
+validation Accuracy: 0.9154 | validation Loss: 0.6485
+validation Accuracy: 0.9154 | validation Loss: 0.6540
+validation Accuracy: 0.9174 | validation Loss: 0.6518
+validation Accuracy: 0.9154 | validation Loss: 0.6599
+test Accuracy: 0.9136 | test Loss: 0.6787
+Final Test Accuracy: 0.9136 | Final Test Loss: 0.6787
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.6552 | validation Loss: 1.8518
+validation Accuracy: 0.7098 | validation Loss: 1.2133
+validation Accuracy: 0.8367 | validation Loss: 0.8984
+validation Accuracy: 0.8470 | validation Loss: 0.7501
+validation Accuracy: 0.8480 | validation Loss: 0.7226
+validation Accuracy: 0.8455 | validation Loss: 0.7376
+validation Accuracy: 0.8441 | validation Loss: 0.7258
+validation Accuracy: 0.8519 | validation Loss: 0.6963
+validation Accuracy: 0.8549 | validation Loss: 0.6662
+validation Accuracy: 0.8524 | validation Loss: 0.6708
+train Accuracy: 0.9279 | train Loss: 0.1981
+test Accuracy: 0.8406 | test Loss: 0.7365
+Final Training Accuracy: 0.9279 | Final Training Loss: 0.1981
+Final Test Accuracy: 0.8406 | Final Test Loss: 0.7365
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.6552 | validation Loss: 1.8518
+validation Accuracy: 0.7098 | validation Loss: 1.2133
+validation Accuracy: 0.8367 | validation Loss: 0.8984
+validation Accuracy: 0.8470 | validation Loss: 0.7501
+validation Accuracy: 0.8480 | validation Loss: 0.7226
+validation Accuracy: 0.8455 | validation Loss: 0.7376
+validation Accuracy: 0.8441 | validation Loss: 0.7258
+validation Accuracy: 0.8519 | validation Loss: 0.6963
+validation Accuracy: 0.8549 | validation Loss: 0.6662
+validation Accuracy: 0.8524 | validation Loss: 0.6708
+train Accuracy: 0.9279 | train Loss: 0.1981
+test Accuracy: 0.8406 | test Loss: 0.7365
+Final Training Accuracy: 0.9279 | Final Training Loss: 0.1981
+Final Test Accuracy: 0.8406 | Final Test Loss: 0.7365
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5912 | validation Loss: 2.2353
+validation Accuracy: 0.7024 | validation Loss: 1.4284
+validation Accuracy: 0.8042 | validation Loss: 1.0553
+validation Accuracy: 0.8396 | validation Loss: 0.7881
+validation Accuracy: 0.8426 | validation Loss: 0.7585
+validation Accuracy: 0.8495 | validation Loss: 0.6866
+validation Accuracy: 0.8475 | validation Loss: 0.6777
+validation Accuracy: 0.9090 | validation Loss: 0.6431
+validation Accuracy: 0.9080 | validation Loss: 0.6542
+validation Accuracy: 0.9056 | validation Loss: 0.6513
+validation Accuracy: 0.9105 | validation Loss: 0.6566
+validation Accuracy: 0.9110 | validation Loss: 0.6225
+validation Accuracy: 0.9110 | validation Loss: 0.6374
+validation Accuracy: 0.9115 | validation Loss: 0.6429
+validation Accuracy: 0.9159 | validation Loss: 0.6178
+validation Accuracy: 0.9164 | validation Loss: 0.6377
+validation Accuracy: 0.9154 | validation Loss: 0.6485
+validation Accuracy: 0.9154 | validation Loss: 0.6540
+validation Accuracy: 0.9174 | validation Loss: 0.6518
+validation Accuracy: 0.9154 | validation Loss: 0.6599
+train Accuracy: 0.9978 | train Loss: 0.0205
+validation Accuracy: 0.9154 | validation Loss: 0.6599
+test Accuracy: 0.9136 | test Loss: 0.6787
+Final Validation Accuracy: 0.9154 | Final Validation Loss: 0.6599
+Final Training Accuracy: 0.9978 | Final Training Loss: 0.0205
+Final Test Accuracy: 0.9136 | Final Test Loss: 0.6787
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5942 | validation Loss: 2.1920
+validation Accuracy: 0.6247 | validation Loss: 2.0373
+validation Accuracy: 0.6365 | validation Loss: 1.9858
+validation Accuracy: 0.6404 | validation Loss: 1.9489
+validation Accuracy: 0.6439 | validation Loss: 1.9106
+validation Accuracy: 0.6473 | validation Loss: 1.8920
+validation Accuracy: 0.6434 | validation Loss: 1.8713
+validation Accuracy: 0.6444 | validation Loss: 1.8593
+validation Accuracy: 0.6434 | validation Loss: 1.8595
+validation Accuracy: 0.6394 | validation Loss: 1.8465
+validation Accuracy: 0.6399 | validation Loss: 1.8399
+validation Accuracy: 0.6394 | validation Loss: 1.8412
+validation Accuracy: 0.6449 | validation Loss: 1.8259
+validation Accuracy: 0.6424 | validation Loss: 1.8262
+validation Accuracy: 0.6449 | validation Loss: 1.8126
+validation Accuracy: 0.6419 | validation Loss: 1.8088
+validation Accuracy: 0.6444 | validation Loss: 1.8009
+validation Accuracy: 0.6439 | validation Loss: 1.7839
+validation Accuracy: 0.6434 | validation Loss: 1.7889
+validation Accuracy: 0.6444 | validation Loss: 1.7900
+train Accuracy: 0.7103 | train Loss: 1.4683
+validation Accuracy: 0.6444 | validation Loss: 1.7900
+test Accuracy: 0.6490 | test Loss: 1.8248
+Final Validation Accuracy: 0.6444 | Final Validation Loss: 1.7900
+Final Training Accuracy: 0.7103 | Final Training Loss: 1.4683
+Final Test Accuracy: 0.6490 | Final Test Loss: 1.8248
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.6030 | validation Loss: 2.1575
+validation Accuracy: 0.6311 | validation Loss: 2.0348
+validation Accuracy: 0.6375 | validation Loss: 1.9830
+validation Accuracy: 0.6429 | validation Loss: 1.9463
+validation Accuracy: 0.6380 | validation Loss: 1.9228
+validation Accuracy: 0.6399 | validation Loss: 1.9206
+validation Accuracy: 0.6360 | validation Loss: 1.9178
+validation Accuracy: 0.6365 | validation Loss: 1.9225
+validation Accuracy: 0.6478 | validation Loss: 1.8605
+validation Accuracy: 0.6419 | validation Loss: 1.8408
+validation Accuracy: 0.6409 | validation Loss: 1.8752
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5839 | validation Loss: 2.2778
+validation Accuracy: 0.6153 | validation Loss: 2.0854
+validation Accuracy: 0.6385 | validation Loss: 2.0030
+validation Accuracy: 0.6399 | validation Loss: 1.9998
+validation Accuracy: 0.6399 | validation Loss: 1.9758
+validation Accuracy: 0.6483 | validation Loss: 1.9370
+validation Accuracy: 0.6424 | validation Loss: 1.9274
+validation Accuracy: 0.6414 | validation Loss: 1.9215
+validation Accuracy: 0.6449 | validation Loss: 1.9274
+validation Accuracy: 0.6360 | validation Loss: 1.9087
+validation Accuracy: 0.6458 | validation Loss: 1.8998
+validation Accuracy: 0.6429 | validation Loss: 1.9141
+validation Accuracy: 0.6394 | validation Loss: 1.8914
+validation Accuracy: 0.6444 | validation Loss: 1.8749
+validation Accuracy: 0.6394 | validation Loss: 1.8728
+validation Accuracy: 0.6429 | validation Loss: 1.8786
+validation Accuracy: 0.6424 | validation Loss: 1.8663
+validation Accuracy: 0.6434 | validation Loss: 1.8701
+validation Accuracy: 0.6434 | validation Loss: 1.8562
+validation Accuracy: 0.6439 | validation Loss: 1.8579
+train Accuracy: 0.7093 | train Loss: 1.5668
+validation Accuracy: 0.6439 | validation Loss: 1.8579
+test Accuracy: 0.6490 | test Loss: 1.8903
+Final Validation Accuracy: 0.6439 | Final Validation Loss: 1.8579
+Final Training Accuracy: 0.7093 | Final Training Loss: 1.5668
+Final Test Accuracy: 0.6490 | Final Test Loss: 1.8903
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.6114 | validation Loss: 2.1034
+validation Accuracy: 0.6217 | validation Loss: 1.9971
+validation Accuracy: 0.6439 | validation Loss: 1.9165
+validation Accuracy: 0.6390 | validation Loss: 1.8863
+validation Accuracy: 0.6414 | validation Loss: 1.8272
+validation Accuracy: 0.6429 | validation Loss: 1.8309
+validation Accuracy: 0.6444 | validation Loss: 1.7914
+validation Accuracy: 0.6488 | validation Loss: 1.7729
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.6021 | validation Loss: 2.1308
+validation Accuracy: 0.6306 | validation Loss: 2.0127
+validation Accuracy: 0.6370 | validation Loss: 1.9461
+validation Accuracy: 0.6326 | validation Loss: 1.9088
+validation Accuracy: 0.6404 | validation Loss: 1.8701
+validation Accuracy: 0.6404 | validation Loss: 1.8411
+validation Accuracy: 0.6508 | validation Loss: 1.8133
+validation Accuracy: 0.6385 | validation Loss: 1.7933
+validation Accuracy: 0.6419 | validation Loss: 1.7929
+validation Accuracy: 0.6375 | validation Loss: 1.7755
+validation Accuracy: 0.6419 | validation Loss: 1.7699
+validation Accuracy: 0.6434 | validation Loss: 1.7760
+validation Accuracy: 0.6414 | validation Loss: 1.7437
+validation Accuracy: 0.6463 | validation Loss: 1.7290
+validation Accuracy: 0.6444 | validation Loss: 1.7140
+validation Accuracy: 0.6434 | validation Loss: 1.7167
+validation Accuracy: 0.6434 | validation Loss: 1.7200
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5819 | validation Loss: 2.2411
+validation Accuracy: 0.6242 | validation Loss: 2.0607
+validation Accuracy: 0.6350 | validation Loss: 1.9948
+validation Accuracy: 0.6375 | validation Loss: 1.9786
+validation Accuracy: 0.6449 | validation Loss: 1.9362
+validation Accuracy: 0.6429 | validation Loss: 1.9178
+validation Accuracy: 0.6458 | validation Loss: 1.9053
+validation Accuracy: 0.6493 | validation Loss: 1.8938
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5342 | validation Loss: 2.4093
+validation Accuracy: 0.5947 | validation Loss: 2.1508
+validation Accuracy: 0.6163 | validation Loss: 2.0595
+validation Accuracy: 0.6394 | validation Loss: 2.0287
+validation Accuracy: 0.6301 | validation Loss: 2.0040
+validation Accuracy: 0.6439 | validation Loss: 1.9889
+validation Accuracy: 0.6463 | validation Loss: 1.9665
+validation Accuracy: 0.6429 | validation Loss: 1.9559
+validation Accuracy: 0.6458 | validation Loss: 1.9499
+validation Accuracy: 0.6463 | validation Loss: 1.9443
+validation Accuracy: 0.6449 | validation Loss: 1.9397
+validation Accuracy: 0.6483 | validation Loss: 1.9333
+validation Accuracy: 0.6473 | validation Loss: 1.9326
+validation Accuracy: 0.6468 | validation Loss: 1.9280
+validation Accuracy: 0.6444 | validation Loss: 1.9210
+validation Accuracy: 0.6454 | validation Loss: 1.9228
+validation Accuracy: 0.6454 | validation Loss: 1.9165
+validation Accuracy: 0.6449 | validation Loss: 1.9159
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5942 | validation Loss: 2.1920
+validation Accuracy: 0.6247 | validation Loss: 2.0373
+validation Accuracy: 0.6365 | validation Loss: 1.9858
+validation Accuracy: 0.6404 | validation Loss: 1.9489
+validation Accuracy: 0.6439 | validation Loss: 1.9106
+validation Accuracy: 0.6473 | validation Loss: 1.8920
+validation Accuracy: 0.6434 | validation Loss: 1.8713
+validation Accuracy: 0.6444 | validation Loss: 1.8593
+validation Accuracy: 0.6434 | validation Loss: 1.8595
+validation Accuracy: 0.6394 | validation Loss: 1.8465
+validation Accuracy: 0.6399 | validation Loss: 1.8399
+validation Accuracy: 0.6394 | validation Loss: 1.8412
+validation Accuracy: 0.6449 | validation Loss: 1.8259
+validation Accuracy: 0.6424 | validation Loss: 1.8262
+validation Accuracy: 0.6449 | validation Loss: 1.8126
+validation Accuracy: 0.6419 | validation Loss: 1.8088
+validation Accuracy: 0.6444 | validation Loss: 1.8009
+validation Accuracy: 0.6439 | validation Loss: 1.7839
+validation Accuracy: 0.6434 | validation Loss: 1.7889
+validation Accuracy: 0.6444 | validation Loss: 1.7900
+train Accuracy: 0.7103 | train Loss: 1.4683
+validation Accuracy: 0.6444 | validation Loss: 1.7900
+test Accuracy: 0.6490 | test Loss: 1.8248
+Final Validation Accuracy: 0.6444 | Final Validation Loss: 1.7900
+Final Training Accuracy: 0.7103 | Final Training Loss: 1.4683
+Final Test Accuracy: 0.6490 | Final Test Loss: 1.8248
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.4250 | validation Loss: 2.7928
+validation Accuracy: 0.5898 | validation Loss: 2.1826
+validation Accuracy: 0.6380 | validation Loss: 2.0278
+validation Accuracy: 0.6340 | validation Loss: 1.9695
+validation Accuracy: 0.6409 | validation Loss: 1.9313
+validation Accuracy: 0.6419 | validation Loss: 1.9115
+validation Accuracy: 0.6468 | validation Loss: 1.8769
+validation Accuracy: 0.6488 | validation Loss: 1.8739
+validation Accuracy: 0.6454 | validation Loss: 1.8388
+validation Accuracy: 0.6434 | validation Loss: 1.8280
+validation Accuracy: 0.6444 | validation Loss: 1.8257
+validation Accuracy: 0.6488 | validation Loss: 1.8022
+validation Accuracy: 0.6508 | validation Loss: 1.7992
+validation Accuracy: 0.6429 | validation Loss: 1.8044
+validation Accuracy: 0.6444 | validation Loss: 1.7737
+validation Accuracy: 0.6454 | validation Loss: 1.7843
+validation Accuracy: 0.6444 | validation Loss: 1.7743
+validation Accuracy: 0.6449 | validation Loss: 1.7641
+validation Accuracy: 0.6463 | validation Loss: 1.7597
+validation Accuracy: 0.6468 | validation Loss: 1.7610
+train Accuracy: 0.7090 | train Loss: 1.4693
+validation Accuracy: 0.6468 | validation Loss: 1.7610
+test Accuracy: 0.6479 | test Loss: 1.8299
+Final Validation Accuracy: 0.6468 | Final Validation Loss: 1.7610
+Final Training Accuracy: 0.7090 | Final Training Loss: 1.4693
+Final Test Accuracy: 0.6479 | Final Test Loss: 1.8299
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5804 | validation Loss: 2.2008
+validation Accuracy: 0.6247 | validation Loss: 2.0422
+validation Accuracy: 0.6399 | validation Loss: 1.9804
+validation Accuracy: 0.6463 | validation Loss: 1.9572
+validation Accuracy: 0.6419 | validation Loss: 1.9316
+validation Accuracy: 0.6424 | validation Loss: 1.9090
+validation Accuracy: 0.6444 | validation Loss: 1.8960
+validation Accuracy: 0.6488 | validation Loss: 1.8980
+validation Accuracy: 0.6458 | validation Loss: 1.8828
+validation Accuracy: 0.6454 | validation Loss: 1.8847
+train Accuracy: 0.7064 | train Loss: 1.6345
+validation Accuracy: 0.6454 | validation Loss: 1.8847
+test Accuracy: 0.6500 | test Loss: 1.9048
+Final Validation Accuracy: 0.6454 | Final Validation Loss: 1.8847
+Final Training Accuracy: 0.7064 | Final Training Loss: 1.6345
+Final Test Accuracy: 0.6500 | Final Test Loss: 1.9048
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5804 | validation Loss: 2.2008
+validation Accuracy: 0.6247 | validation Loss: 2.0422
+validation Accuracy: 0.6399 | validation Loss: 1.9804
+validation Accuracy: 0.6463 | validation Loss: 1.9572
+validation Accuracy: 0.6419 | validation Loss: 1.9316
+validation Accuracy: 0.6424 | validation Loss: 1.9090
+validation Accuracy: 0.6444 | validation Loss: 1.8960
+validation Accuracy: 0.6488 | validation Loss: 1.8980
+validation Accuracy: 0.6458 | validation Loss: 1.8828
+validation Accuracy: 0.6454 | validation Loss: 1.8847
+train Accuracy: 0.7064 | train Loss: 1.6345
+validation Accuracy: 0.6454 | validation Loss: 1.8847
+test Accuracy: 0.6500 | test Loss: 1.9048
+Final Validation Accuracy: 0.6454 | Final Validation Loss: 1.8847
+Final Training Accuracy: 0.7064 | Final Training Loss: 1.6345
+Final Test Accuracy: 0.6500 | Final Test Loss: 1.9048
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.6552 | validation Loss: 1.8518
+validation Accuracy: 0.7098 | validation Loss: 1.2133
+validation Accuracy: 0.8367 | validation Loss: 0.8984
+validation Accuracy: 0.8470 | validation Loss: 0.7501
+validation Accuracy: 0.8480 | validation Loss: 0.7226
+validation Accuracy: 0.8455 | validation Loss: 0.7376
+validation Accuracy: 0.8441 | validation Loss: 0.7258
+validation Accuracy: 0.8519 | validation Loss: 0.6963
+validation Accuracy: 0.8549 | validation Loss: 0.6662
+validation Accuracy: 0.8524 | validation Loss: 0.6708
+train Accuracy: 0.9279 | train Loss: 0.1981
+validation Accuracy: 0.8524 | validation Loss: 0.6708
+test Accuracy: 0.8406 | test Loss: 0.7365
+Final Validation Accuracy: 0.8524 | Final Validation Loss: 0.6708
+Final Training Accuracy: 0.9279 | Final Training Loss: 0.1981
+Final Test Accuracy: 0.8406 | Final Test Loss: 0.7365
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.6552 | validation Loss: 1.8518
+validation Accuracy: 0.7098 | validation Loss: 1.2133
+validation Accuracy: 0.8367 | validation Loss: 0.8984
+validation Accuracy: 0.8470 | validation Loss: 0.7501
+validation Accuracy: 0.8480 | validation Loss: 0.7226
+validation Accuracy: 0.8455 | validation Loss: 0.7376
+validation Accuracy: 0.8441 | validation Loss: 0.7258
+validation Accuracy: 0.8519 | validation Loss: 0.6963
+validation Accuracy: 0.8549 | validation Loss: 0.6662
+validation Accuracy: 0.8524 | validation Loss: 0.6708
+train Accuracy: 0.9279 | train Loss: 0.1981
+validation Accuracy: 0.8524 | validation Loss: 0.6708
+test Accuracy: 0.8406 | test Loss: 0.7365
+Final Validation Accuracy: 0.8524 | Final Validation Loss: 0.6708
+Final Training Accuracy: 0.9279 | Final Training Loss: 0.1981
+Final Test Accuracy: 0.8406 | Final Test Loss: 0.7365
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.5612 | validation Loss: 2.3745
+validation Accuracy: 0.6237 | validation Loss: 2.0723
+validation Accuracy: 0.6335 | validation Loss: 2.0015
+validation Accuracy: 0.6375 | validation Loss: 1.9657
+validation Accuracy: 0.6360 | validation Loss: 1.9381
+validation Accuracy: 0.6385 | validation Loss: 1.9173
+validation Accuracy: 0.6454 | validation Loss: 1.8971
+validation Accuracy: 0.6458 | validation Loss: 1.8936
+validation Accuracy: 0.6478 | validation Loss: 1.8884
+validation Accuracy: 0.6493 | validation Loss: 1.8841
+train Accuracy: 0.7052 | train Loss: 1.6346
+validation Accuracy: 0.6493 | validation Loss: 1.8841
+test Accuracy: 0.6493 | test Loss: 1.9080
+Final Validation Accuracy: 0.6493 | Final Validation Loss: 1.8841
+Final Training Accuracy: 0.7052 | Final Training Loss: 1.6346
+Final Test Accuracy: 0.6493 | Final Test Loss: 1.9080
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.6896 | validation Loss: 1.7651
+validation Accuracy: 0.7132 | validation Loss: 1.3617
+validation Accuracy: 0.7245 | validation Loss: 1.1123
+validation Accuracy: 0.7491 | validation Loss: 1.0126
+validation Accuracy: 0.8362 | validation Loss: 0.8950
+validation Accuracy: 0.8505 | validation Loss: 0.8422
+validation Accuracy: 0.8500 | validation Loss: 0.7846
+validation Accuracy: 0.8559 | validation Loss: 0.7551
+validation Accuracy: 0.8544 | validation Loss: 0.7463
+validation Accuracy: 0.8559 | validation Loss: 0.7493
+train Accuracy: 0.9256 | train Loss: 0.3676
+validation Accuracy: 0.8559 | validation Loss: 0.7493
+test Accuracy: 0.8433 | test Loss: 0.8174
+Final Validation Accuracy: 0.8559 | Final Validation Loss: 0.7493
+Final Training Accuracy: 0.9256 | Final Training Loss: 0.3676
+Final Test Accuracy: 0.8433 | Final Test Loss: 0.8174
+validation Accuracy: 0.0000 | validation Loss: 4.0810
+validation Accuracy: 0.6552 | validation Loss: 1.8518
+validation Accuracy: 0.7098 | validation Loss: 1.2133
+validation Accuracy: 0.8367 | validation Loss: 0.8984
+validation Accuracy: 0.8470 | validation Loss: 0.7501
+validation Accuracy: 0.8480 | validation Loss: 0.7226
+validation Accuracy: 0.8455 | validation Loss: 0.7376
+validation Accuracy: 0.8441 | validation Loss: 0.7258
+validation Accuracy: 0.8519 | validation Loss: 0.6963
+validation Accuracy: 0.8549 | validation Loss: 0.6662
+validation Accuracy: 0.8524 | validation Loss: 0.6708
+train Accuracy: 0.9279 | train Loss: 0.1981
+validation Accuracy: 0.8524 | validation Loss: 0.6708
+test Accuracy: 0.8406 | test Loss: 0.7365
+Final Validation Accuracy: 0.8524 | Final Validation Loss: 0.6708
+Final Training Accuracy: 0.9279 | Final Training Loss: 0.1981
+Final Test Accuracy: 0.8406 | Final Test Loss: 0.7365

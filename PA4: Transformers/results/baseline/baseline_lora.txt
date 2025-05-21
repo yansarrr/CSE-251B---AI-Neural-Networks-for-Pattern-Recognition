@@ -1,0 +1,222 @@
+(151bpa2) C:\Users\20020\Desktop\CSE_251B\PA4\cse151b251b-wi25-pa4-cse151b_251b_transformers>python main.py --task baseline
+Loading features from cache at assets\cache\amazon.pkl
+C:\Users\20020\miniconda3\envs\151bpa2\lib\site-packages\huggingface_hub\file_download.py:797: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+train 11514
+test 2974
+validation 2033
+
+Training with LoRA rank = 4
+Setting up bert model with LoRA, rank=4
+Some weights of the model checkpoint at bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+trainable params: 669,696 || all params: 110,151,936 || trainable%: 0.6079747885684007
+
+Initial evaluation:
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 34.64it/s]
+validation acc: 0.0 |dataset split validation size: 2033
+Loaded test data with 186 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 186/186 [00:05<00:00, 33.25it/s]
+test acc: 0.0 |dataset split test size: 2974
+Loaded train data with 720 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:49<00:00, 14.54it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:04<00:00, 31.52it/s]
+validation acc: 0.7397934087555337 |dataset split validation size: 2033
+epoch 0 | losses: 1993.740977883339
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:44<00:00, 16.19it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 36.87it/s]
+validation acc: 0.8716182980816527 |dataset split validation size: 2033
+epoch 1 | losses: 863.2135934829712
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:43<00:00, 16.73it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 38.75it/s]
+validation acc: 0.8917855386128873 |dataset split validation size: 2033
+epoch 2 | losses: 539.3635713011026
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:42<00:00, 16.83it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 39.83it/s]
+validation acc: 0.896704377766847 |dataset split validation size: 2033
+epoch 3 | losses: 400.7057941183448
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:42<00:00, 16.77it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 38.84it/s]
+validation acc: 0.8986719134284309 |dataset split validation size: 2033
+epoch 4 | losses: 318.05212842673063
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:45<00:00, 15.99it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 35.55it/s]
+validation acc: 0.9026069847515986 |dataset split validation size: 2033
+epoch 5 | losses: 264.9685525894165
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:48<00:00, 14.84it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 33.43it/s]
+validation acc: 0.9026069847515986 |dataset split validation size: 2033
+epoch 6 | losses: 231.9310357645154
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:48<00:00, 14.95it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 36.02it/s]
+validation acc: 0.9055582882439744 |dataset split validation size: 2033
+epoch 7 | losses: 199.29001151397824
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:48<00:00, 14.97it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 34.10it/s]
+validation acc: 0.9080177078209543 |dataset split validation size: 2033
+epoch 8 | losses: 175.89270966127515
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:47<00:00, 15.15it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:04<00:00, 30.24it/s]
+validation acc: 0.9055582882439744 |dataset split validation size: 2033
+epoch 9 | losses: 161.1367275826633
+
+Final evaluation (LoRA rank=4):
+Loaded test data with 186 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 186/186 [00:05<00:00, 32.73it/s]
+test acc: 0.9008069939475454 |dataset split test size: 2974
+
+Training with LoRA rank = 8
+Setting up bert model with LoRA, rank=8
+C:\Users\20020\miniconda3\envs\151bpa2\lib\site-packages\huggingface_hub\file_download.py:797: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+Some weights of the model checkpoint at bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+trainable params: 1,339,392 || all params: 110,821,632 || trainable%: 1.2086015842105629
+
+Initial evaluation:
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 34.60it/s]
+validation acc: 0.06099360550909985 |dataset split validation size: 2033
+Loaded test data with 186 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 186/186 [00:05<00:00, 35.40it/s]
+test acc: 0.05178211163416274 |dataset split test size: 2974
+Loaded train data with 720 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:47<00:00, 15.10it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 34.40it/s]
+validation acc: 0.6005902606984752 |dataset split validation size: 2033
+epoch 0 | losses: 2165.6458778381348
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:48<00:00, 14.92it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 35.41it/s]
+validation acc: 0.8396458435809149 |dataset split validation size: 2033
+epoch 1 | losses: 938.5921211242676
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:47<00:00, 15.05it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 35.08it/s]
+validation acc: 0.8799803246433842 |dataset split validation size: 2033
+epoch 2 | losses: 560.11762586236
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:47<00:00, 15.15it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 36.71it/s]
+validation acc: 0.8893261190359075 |dataset split validation size: 2033
+epoch 3 | losses: 402.5024156719446
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:46<00:00, 15.56it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 37.84it/s]
+validation acc: 0.897688145597639 |dataset split validation size: 2033
+epoch 4 | losses: 317.58947560191154
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:42<00:00, 16.79it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 39.91it/s]
+validation acc: 0.9026069847515986 |dataset split validation size: 2033
+epoch 5 | losses: 268.1371523067355
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:44<00:00, 16.06it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 34.73it/s]
+validation acc: 0.9050664043285784 |dataset split validation size: 2033
+epoch 6 | losses: 227.73765590041876
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:47<00:00, 15.02it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 34.05it/s]
+validation acc: 0.9055582882439744 |dataset split validation size: 2033
+epoch 7 | losses: 198.35956656187773
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:47<00:00, 15.11it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 39.16it/s]
+validation acc: 0.9050664043285784 |dataset split validation size: 2033
+epoch 8 | losses: 181.02090607956052
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:43<00:00, 16.42it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 39.53it/s]
+validation acc: 0.9045745204131825 |dataset split validation size: 2033
+epoch 9 | losses: 169.56761642172933
+
+Final evaluation (LoRA rank=8):
+Loaded test data with 186 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 186/186 [00:05<00:00, 35.64it/s]
+test acc: 0.9051782111634162 |dataset split test size: 2974
+
+Training with LoRA rank = 16
+Setting up bert model with LoRA, rank=16
+Some weights of the model checkpoint at bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+trainable params: 2,678,784 || all params: 112,161,024 || trainable%: 2.3883376813678163
+
+Initial evaluation:
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 32.98it/s]
+validation acc: 0.034923757993113626 |dataset split validation size: 2033
+Loaded test data with 186 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 186/186 [00:05<00:00, 32.35it/s]
+test acc: 0.03530598520511096 |dataset split test size: 2974
+Loaded train data with 720 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:46<00:00, 15.38it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 37.69it/s]
+validation acc: 0.4545007378258731 |dataset split validation size: 2033
+epoch 0 | losses: 2202.4441744089127
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:47<00:00, 15.23it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 38.07it/s]
+validation acc: 0.8022626660108214 |dataset split validation size: 2033
+epoch 1 | losses: 1071.0031706094742
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:45<00:00, 15.69it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 35.95it/s]
+validation acc: 0.8696507624200689 |dataset split validation size: 2033
+epoch 2 | losses: 643.0415316820145
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:48<00:00, 14.94it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:04<00:00, 31.86it/s]
+validation acc: 0.8908017707820954 |dataset split validation size: 2033
+epoch 3 | losses: 456.15875066816807
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:45<00:00, 15.71it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 38.11it/s]
+validation acc: 0.8947368421052632 |dataset split validation size: 2033
+epoch 4 | losses: 366.75494796037674
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:44<00:00, 16.06it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 37.42it/s]
+validation acc: 0.9026069847515986 |dataset split validation size: 2033
+epoch 5 | losses: 313.054589048028
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:48<00:00, 14.77it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 33.38it/s]
+validation acc: 0.9055582882439744 |dataset split validation size: 2033
+epoch 6 | losses: 262.9568817168474
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:47<00:00, 15.29it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 37.69it/s]
+validation acc: 0.9030988686669946 |dataset split validation size: 2033
+epoch 7 | losses: 229.84386147931218
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:45<00:00, 15.79it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 36.95it/s]
+validation acc: 0.9035907525823905 |dataset split validation size: 2033
+epoch 8 | losses: 211.5352371968329
+100%|████████████████████████████████████████████████████████████████████████████████| 720/720 [00:46<00:00, 15.52it/s]
+Loaded validation data with 128 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 128/128 [00:03<00:00, 38.43it/s]
+validation acc: 0.9085095917363503 |dataset split validation size: 2033
+epoch 9 | losses: 196.01090320572257
+
+Final evaluation (LoRA rank=16):
+Loaded test data with 186 batches
+100%|████████████████████████████████████████████████████████████████████████████████| 186/186 [00:04<00:00, 38.30it/s]
+test acc: 0.894754539340955 |dataset split test size: 2974

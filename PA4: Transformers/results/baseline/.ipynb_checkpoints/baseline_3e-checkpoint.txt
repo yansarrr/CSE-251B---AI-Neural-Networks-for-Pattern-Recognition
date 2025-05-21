@@ -1,0 +1,20 @@
+Loading features from cache at assets/cache/amazon.pkl
+train 11514
+test 2974
+validation 2033
+Setting up bert model
+Loaded validation data with 128 batches
+100%|██████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.23it/s]
+validation acc: 0.0 |dataset split validation size: 2033
+Loaded test data with 186 batches
+100%|██████████████████████████████████████████████████| 186/186 [00:11<00:00, 16.57it/s]
+test acc: 0.0 |dataset split test size: 2974
+Loaded train data with 720 batches
+100%|██████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.24it/s]
+Loaded validation data with 128 batches
+100%|██████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.56it/s]
+validation acc: 0.4535169699950812 |dataset split validation size: 2033
+epoch 0 | losses: 1876.456398844719
+Loaded test data with 186 batches
+100%|██████████████████████████████████████████████████| 186/186 [00:11<00:00, 16.43it/s]
+test acc: 0.46805648957632817 |dataset split test size: 2974

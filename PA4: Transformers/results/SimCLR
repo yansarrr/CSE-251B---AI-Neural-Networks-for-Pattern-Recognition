@@ -1,0 +1,130 @@
+2025-03-07 04:36:30.590091: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-03-07 04:36:30.636008: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-03-07 04:36:30.636068: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-03-07 04:36:30.637516: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-03-07 04:36:30.644532: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Loading features from cache at assets/cache/amazon.pkl
+/opt/conda/lib/python3.11/site-packages/huggingface_hub/file_download.py:797: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+train 11514
+test 2974
+validation 2033
+Setting up bert model
+Some weights of the model checkpoint at bert-base-uncased were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.bias', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:01<00:00, 46.51it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+Loaded test data with 93 batches
+100%|███████████████████████████████████████████| 93/93 [00:01<00:00, 71.12it/s]
+test acc: 0.0 | dataset split test size: 2974
+Loaded train data with 360 batches
+100%|█████████████████████████████████████████| 360/360 [00:21<00:00, 16.90it/s]
+[SupCon] Epoch 0 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 70.35it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+100%|█████████████████████████████████████████| 360/360 [00:21<00:00, 16.79it/s]
+[SupCon] Epoch 1 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 71.62it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+100%|█████████████████████████████████████████| 360/360 [00:21<00:00, 16.86it/s]
+[SupCon] Epoch 2 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 70.33it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+100%|█████████████████████████████████████████| 360/360 [00:21<00:00, 16.80it/s]
+[SupCon] Epoch 3 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 70.78it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+100%|█████████████████████████████████████████| 360/360 [00:21<00:00, 16.69it/s]
+[SupCon] Epoch 4 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 69.51it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+100%|█████████████████████████████████████████| 360/360 [00:21<00:00, 16.85it/s]
+[SupCon] Epoch 5 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 69.56it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 16.35it/s]
+[SupCon] Epoch 6 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 65.18it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 15.90it/s]
+[SupCon] Epoch 7 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 66.22it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 15.76it/s]
+[SupCon] Epoch 8 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 64.42it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+100%|█████████████████████████████████████████| 360/360 [00:23<00:00, 15.63it/s]
+[SupCon] Epoch 9 | Loss: 0.0000
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 65.09it/s]
+validation acc: 0.0 | dataset split validation size: 2033
+Loaded train data with 360 batches
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 15.94it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:01<00:00, 63.37it/s]
+validation acc: 0.6935563207083129 | dataset split validation size: 2033
+[ClsFinetune] Epoch 0 | Loss: 801.0355 | Train_Acc: 0.5334
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 16.00it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:01<00:00, 63.77it/s]
+validation acc: 0.720118052139695 | dataset split validation size: 2033
+[ClsFinetune] Epoch 1 | Loss: 469.0444 | Train_Acc: 0.7243
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 15.99it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 64.25it/s]
+validation acc: 0.7604525332021643 | dataset split validation size: 2033
+[ClsFinetune] Epoch 2 | Loss: 337.1013 | Train_Acc: 0.7619
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 16.00it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:01<00:00, 61.21it/s]
+validation acc: 0.836694540088539 | dataset split validation size: 2033
+[ClsFinetune] Epoch 3 | Loss: 247.0564 | Train_Acc: 0.8167
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 16.08it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:01<00:00, 63.24it/s]
+validation acc: 0.8489916379734382 | dataset split validation size: 2033
+[ClsFinetune] Epoch 4 | Loss: 185.9489 | Train_Acc: 0.9109
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 15.86it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:01<00:00, 62.66it/s]
+validation acc: 0.8489916379734382 | dataset split validation size: 2033
+[ClsFinetune] Epoch 5 | Loss: 149.3457 | Train_Acc: 0.9184
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 16.34it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:01<00:00, 63.68it/s]
+validation acc: 0.852926709296606 | dataset split validation size: 2033
+[ClsFinetune] Epoch 6 | Loss: 127.4251 | Train_Acc: 0.9226
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 16.22it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:01<00:00, 63.29it/s]
+validation acc: 0.8544023610427939 | dataset split validation size: 2033
+[ClsFinetune] Epoch 7 | Loss: 113.4584 | Train_Acc: 0.9266
+100%|█████████████████████████████████████████| 360/360 [00:22<00:00, 15.94it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:01<00:00, 63.68it/s]
+validation acc: 0.8558780127889818 | dataset split validation size: 2033
+[ClsFinetune] Epoch 8 | Loss: 105.5124 | Train_Acc: 0.9281
+100%|█████████████████████████████████████████| 360/360 [00:21<00:00, 16.68it/s]
+Loaded validation data with 64 batches
+100%|███████████████████████████████████████████| 64/64 [00:00<00:00, 64.39it/s]
+validation acc: 0.8544023610427939 | dataset split validation size: 2033
+[ClsFinetune] Epoch 9 | Loss: 101.8129 | Train_Acc: 0.9293
+Figure(1000x600)
+Loaded test data with 93 batches
+100%|███████████████████████████████████████████| 93/93 [00:01<00:00, 68.93it/s]
+test acc: 0.8409549428379287 | dataset split test size: 2974
+
+ --batch-size 32 --learning-rate 5e-5 --drop-rate 0.2 temperature=0.1 

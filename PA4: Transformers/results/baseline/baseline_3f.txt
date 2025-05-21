@@ -1,0 +1,71 @@
+jil232@dsmlp-jupyter-jil232:~/private/cse151b251b-wi25-pa4-cse151b_251b_transformers$ python3 main.py --task baseline
+2025-03-04 19:36:41.967388: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-03-04 19:36:41.967444: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-03-04 19:36:41.968850: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-03-04 19:36:41.975058: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Loading features from cache at assets/cache/amazon.pkl
+train 11514
+test 2974
+validation 2033
+Setting up bert model
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.31it/s]
+validation acc: 0.0 |dataset split validation size: 2033
+Loaded test data with 186 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 186/186 [00:11<00:00, 16.59it/s]
+test acc: 0.0 |dataset split test size: 2974
+Loaded train data with 720 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.25it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.55it/s]
+validation acc: 0.6601082144613871 |dataset split validation size: 2033
+epoch 0 | losses: 1777.4239547848701
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.23it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.53it/s]
+validation acc: 0.8735858337432366 |dataset split validation size: 2033
+epoch 1 | losses: 833.8916367292404
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.23it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.54it/s]
+validation acc: 0.8888342351205115 |dataset split validation size: 2033
+epoch 2 | losses: 480.7414458692074
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.23it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.53it/s]
+validation acc: 0.8908017707820954 |dataset split validation size: 2033
+epoch 3 | losses: 320.83323342353106
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.23it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.53it/s]
+validation acc: 0.8937530742744713 |dataset split validation size: 2033
+epoch 4 | losses: 241.27330090850592
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.23it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.52it/s]
+validation acc: 0.8986719134284309 |dataset split validation size: 2033
+epoch 5 | losses: 173.66915857046843
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.23it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.51it/s]
+validation acc: 0.9045745204131825 |dataset split validation size: 2033
+epoch 6 | losses: 147.79332871176302
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.23it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.53it/s]
+validation acc: 0.9109690113133301 |dataset split validation size: 2033
+epoch 7 | losses: 110.81651581823826
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.23it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.54it/s]
+validation acc: 0.911460895228726 |dataset split validation size: 2033
+epoch 8 | losses: 85.02870625257492
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 720/720 [02:17<00:00,  5.23it/s]
+Loaded validation data with 128 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 128/128 [00:07<00:00, 16.52it/s]
+validation acc: 0.9090014756517462 |dataset split validation size: 2033
+epoch 9 | losses: 68.01003581099212
+Loaded test data with 186 batches
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 186/186 [00:11<00:00, 16.42it/s]
+test acc: 0.9045057162071285 |dataset split test size: 2974
