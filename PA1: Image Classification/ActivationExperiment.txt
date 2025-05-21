@@ -1,0 +1,25 @@
+L2:
+d
+
+L1: 
+sigmoid
+Test Loss from modelTest: 0.3918
+Test Accuracy from modelTest: 0.8620
+
+Relu
+Early stopping triggered at epoch 35
+Test Loss from modelTest: 0.3790
+Test Accuracy from modelTest: 0.8668
+
+Relu No stop
+Test Loss from modelTest: 0.3698
+Test Accuracy from modelTest: 0.8805
+
+Tanh
+Early stopping triggered at epoch 54
+Test Loss from modelTest: 0.3586
+Test Accuracy from modelTest: 0.8732
+
+Tanh No stop
+Test Loss from modelTest: 0.3486
+Test Accuracy from modelTest: 0.8793
