@@ -1,0 +1,7 @@
+model: 'RNN'
+embed_size: 25
+hidden_size: 150
+num_layers: 1
+epochs: 10
+patience: 3
+seq_len: 16 

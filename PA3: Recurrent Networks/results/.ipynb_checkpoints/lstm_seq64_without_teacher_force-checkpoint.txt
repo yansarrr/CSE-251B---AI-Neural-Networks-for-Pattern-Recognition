@@ -1,0 +1,33 @@
+jil232@dsmlp-jupyter-jil232:~/private/cse151b251b-wi25-pa3-cse151b_251b_lstm$ python3 main.py configs/lstm_seq64_no_teacher_force_config.yaml
+ENCODED TEXT DATA
+CREATED SEQUENCES
+Using sequence length: 64
+PERFORMED TRAIN/VAL/TEST SPLIT
+X_train: torch.Size([892264, 64]), y_train: torch.Size([892264])
+X_val: torch.Size([111533, 64]), y_val: torch.Size([111533])
+X_test: torch.Size([111533, 64]), y_test: torch.Size([111533])
+Using LSTM Without Teacher Force.
+Epoch 1: 100%|█████████████████████████████████████| 13942/13942 [06:30<00:00, 35.72it/s]
+Epoch 1: Train Loss = 3.3197, Val Loss = 3.3085
+Epoch 1: 100%|█████████████████████████████████████| 13942/13942 [06:30<00:00, 35.72it/s]
+Epoch 1: Train Loss = 3.3197, Val Loss = 3.3085
+Epoch 2: 100%|█████████████████████████████████████| 13942/13942 [06:33<00:00, 35.41it/s]
+Epoch 2: Train Loss = 3.3159, Val Loss = 3.3081
+Epoch 3: 100%|█████████████████████████████████████| 13942/13942 [06:10<00:00, 37.65it/s]
+Epoch 3: Train Loss = 3.3155, Val Loss = 3.3072
+Epoch 4: 100%|█████████████████████████████████████| 13942/13942 [06:07<00:00, 37.96it/s]
+Epoch 4: Train Loss = 3.3151, Val Loss = 3.3082
+Epoch 5: 100%|█████████████████████████████████████| 13942/13942 [06:34<00:00, 35.36it/s]
+Epoch 5: Train Loss = 3.3150, Val Loss = 3.3071
+Epoch 6: 100%|█████████████████████████████████████| 13942/13942 [06:27<00:00, 35.95it/s]
+Epoch 6: Train Loss = 3.3149, Val Loss = 3.3069
+Epoch 7: 100%|█████████████████████████████████████| 13942/13942 [06:36<00:00, 35.13it/s]
+Epoch 7: Train Loss = 3.3148, Val Loss = 3.3069
+Epoch 8: 100%|█████████████████████████████████████| 13942/13942 [06:31<00:00, 35.63it/s]
+Epoch 8: Train Loss = 3.3147, Val Loss = 3.3067
+Epoch 9: 100%|█████████████████████████████████████| 13942/13942 [06:27<00:00, 35.97it/s]
+Epoch 9: Train Loss = 3.3146, Val Loss = 3.3083
+Epoch 10: 100%|████████████████████████████████████| 13942/13942 [06:29<00:00, 35.83it/s]
+Epoch 10: Train Loss = 3.3146, Val Loss = 3.3071
+Early stopping after 10 epochs
+test loss: 3.314878394394446

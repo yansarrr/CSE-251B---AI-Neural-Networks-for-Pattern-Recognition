@@ -1,0 +1,13 @@
+model: 'LSTM'
+
+embed_size: 100
+
+hidden_size: 200
+
+num_layers: 16 # Use 4, 8, 16
+
+epochs: 10
+
+patience: 3
+
+seq_len: 128

@@ -1,0 +1,25 @@
+jil232@dsmlp-jupyter-jil232:~/private/cse151b251b-wi25-pa3-cse151b_251b_lstm$ python3 main.py configs/lstm_seq128_more_hidden_config.yaml
+ENCODED TEXT DATA
+CREATED SEQUENCES
+Using sequence length: 128
+PERFORMED TRAIN/VAL/TEST SPLIT
+X_train: torch.Size([892212, 128]), y_train: torch.Size([892212])
+X_val: torch.Size([111526, 128]), y_val: torch.Size([111526])
+X_test: torch.Size([111528, 128]), y_test: torch.Size([111528])
+Using LSTM.
+Epoch 1: 100%|██████████████████████████████████████████████████████| 13941/13941 [02:23<00:00, 97.40it/s]
+Epoch 1: Train Loss = 1.6718, Val Loss = 1.4768
+Epoch 2: 100%|█████████████████████████████████████████████████████| 13941/13941 [01:41<00:00, 137.50it/s]
+Epoch 2: Train Loss = 1.4190, Val Loss = 1.3995
+Epoch 2: 100%|█████████████████████████████████████████████████████| 13941/13941 [01:41<00:00, 137.50it/s]
+Epoch 2: Train Loss = 1.4190, Val Loss = 1.3995
+Epoch 2: 100%|█████████████████████████████████████████████████████| 13941/13941 [01:41<00:00, 137.50it/s]
+Epoch 2: Train Loss = 1.4190, Val Loss = 1.3995
+Epoch 6: 100%|█████████████████████████████████████████████████████| 13941/13941 [01:53<00:00, 122.81it/s]
+Epoch 6: Train Loss = 1.2800, Val Loss = 1.3288
+Epoch 8: 100%|██████████████████████████████████████████████████████| 13941/13941 [02:41<00:00, 86.16it/s]
+Epoch 8: Train Loss = 1.2567, Val Loss = 1.3262
+Epoch 9: 100%|█████████████████████████████████████████████████████| 13941/13941 [02:09<00:00, 107.74it/s]
+Epoch 9: Train Loss = 1.2477, Val Loss = 1.3221
+Epoch 10: 100%|█████████████████████████████████████████████████████| 13941/13941 [02:25<00:00, 95.80it/s]
+Epoch 10: Train Loss = 1.2411, Val Loss = 1.3215

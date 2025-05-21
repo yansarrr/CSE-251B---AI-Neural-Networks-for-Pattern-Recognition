@@ -1,0 +1,13 @@
+model: 'LSTMWithoutForce'
+
+embed_size: 32
+
+hidden_size: 64
+
+num_layers: 1
+
+epochs: 10
+
+patience: 2
+
+seq_len: 128
